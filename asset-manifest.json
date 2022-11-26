@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hero-Project/static/css/main.0dcbc3d2.css",
+    "main.js": "/Hero-Project/static/js/main.752b462f.js",
+    "index.html": "/Hero-Project/index.html",
+    "main.0dcbc3d2.css.map": "/Hero-Project/static/css/main.0dcbc3d2.css.map",
+    "main.752b462f.js.map": "/Hero-Project/static/js/main.752b462f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dcbc3d2.css",
+    "static/js/main.752b462f.js"
+  ]
+}
